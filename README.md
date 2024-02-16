@@ -1,4 +1,4 @@
-# Chat App
+# Chat App using C# and TCP/IP protocol
 
 
 Creating a chat app using C# and TCP/IP protocol can be a rewarding project. Here's a basic outline to get you started:
